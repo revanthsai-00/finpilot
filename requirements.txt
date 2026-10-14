@@ -1,0 +1,14 @@
+
+fastapi
+uvicorn[standard]
+openai
+langgraph
+pandas
+numpy
+pydantic-settings
+sqlalchemy
+psycopg[binary]
+python-multipart
+apscheduler
+pytest
+httpx
